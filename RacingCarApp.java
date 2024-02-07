@@ -30,5 +30,6 @@ public class RacingCarApp
         for (int i=0; i<8; i++) {
             System.out.println(race8[i]);
         }
+        // NEW CHANGES TO BE SEEN 
     }
 }
